@@ -13,9 +13,6 @@ ASPIRING AI/ML DEV | Identity Verification & Fraud Detection Systems
   <img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/__captain_gk__?igsh=MWVqbmR6bjQ0eDl5bA==" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/30/E4405F/instagram-new.png"/>
-</a>
 </p>
 
 ---
