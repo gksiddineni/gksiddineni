@@ -1,26 +1,30 @@
 <h1 align="center">Siddineni Gopala Krishna</h1>
 
 <p align="center">
-Lead AI Engineer | Identity Verification & Fraud Detection Systems
+📍 Vijayawada, India
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/siddinenigopalakrishna" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" />
-  </a>
-  
-  &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.instagram.com/__captain_gk__?igsh=MWVqbmR6bjQ0eDl5bA==" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35" />
-  </a>
+ASPIRING AI/ML DEV | Identity Verification & Fraud Detection Systems
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/siddinenigopalakrishna" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/__captain_gk__?igsh=MWVqbmR6bjQ0eDl5bA==" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/30/E4405F/instagram-new.png"/>
+</a>
 </p>
 
 ---
 
-### 📍 Vijayawada, India  
-Building AI-powered KYC & Fraud Detection Systems  
-Focused on Computer Vision, ML Security & AI Automation  
+### 🚀 About Me
+
+• MCA Student passionate about Artificial Intelligence  
+• Building AI-powered KYC & Fraud Detection Systems  
+• Focused on Computer Vision, ML Security & AI Automation  
 
 ---
 
@@ -35,31 +39,23 @@ Focused on Computer Vision, ML Security & AI Automation
 
 ---
 
-## 🛠 Core Tech Stack
+## 🛠 Core Stack
 
-| Category | Tools |
-|----------|-------|
+| Category | Technologies |
+|----------|-------------|
 | Programming | Python, JavaScript |
-| ML/DL | TensorFlow, PyTorch, Keras |
+| ML/DL | TensorFlow, PyTorch |
 | Computer Vision | OpenCV |
-| Generative AI | Stable Diffusion, ComfyUI |
-| Data | Pandas, NumPy |
+| Data Processing | Pandas, NumPy |
+| AI Tools | ComfyUI, Stable Diffusion |
 
 ---
 
-## 💼 Experience
+## 🏆 Certifications
 
-### Artificial Intelligence Intern – Infosys Springboard (2026 – Present)
-
-• Developed AI-based identity verification prototype  
-• Tested fraud detection workflows using supervised ML models  
-
----
-
-### AI Foundation Intern – AICTE Virtual Internship (2024)
-
-• Built computer vision model achieving 94% accuracy  
-• Optimized model inference performance  
+• Infosys Springboard – Artificial Intelligence Internship  
+• AICTE Virtual Internship – AI Foundation  
+• TensorFlow for AI & ML (Infosys / Online Certified)  
 
 ---
 
