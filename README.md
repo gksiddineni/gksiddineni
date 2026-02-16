@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>Siddineni Gopala Krishna - AI/ML Engineer</title>
+
 <style>
 body {
     font-family: Arial, sans-serif;
@@ -12,13 +13,24 @@ body {
 
 h1 {
     text-align: center;
-    margin-bottom: 5px;
+    margin-bottom: 8px;
 }
 
 .header {
     text-align: center;
     font-size: 14px;
     margin-bottom: 25px;
+}
+
+.header img {
+    vertical-align: middle;
+    margin-right: 4px;
+}
+
+.header a {
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
 }
 
 .section {
@@ -47,72 +59,63 @@ strong {
 
 <div class="header">
 
-  <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="14"/>
-  Vijayawada, India
+    <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="14">
+    Vijayawada, India
 
-  &nbsp;&nbsp;|&nbsp;&nbsp;
+    &nbsp;&nbsp;|&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/siddinenigopalakrishna" target="_blank" style="text-decoration:none; color:black;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="14"/>
-    LinkedIn
-  </a>
+    <a href="https://www.linkedin.com/in/siddinenigopalakrishna" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="14">
+        LinkedIn
+    </a>
 
 </div>
 
 <div class="section">
 <h2>Professional Profile</h2>
 <p>
-AI/ML Engineer specializing in Identity Verification and Fraud Detection Systems. 
-Experienced in designing scalable computer vision pipelines, implementing supervised learning models, 
-and optimizing AI workflows for real-world security applications. 
-Strong understanding of data preprocessing, model evaluation, and deployment practices.
+AI/ML Engineer specializing in Identity Verification and Fraud Detection Systems.
+Experienced in building scalable computer vision pipelines, implementing supervised learning models,
+and optimizing AI workflows for real-world security applications.
 </p>
 </div>
 
 <div class="section">
 <h2>Core Technical Skills</h2>
 <ul>
-<li><strong>Programming:</strong> Python</li>
-<li><strong>Machine Learning:</strong> Supervised & Unsupervised Learning</li>
-<li><strong>Deep Learning:</strong> TensorFlow, PyTorch</li>
-<li><strong>Computer Vision:</strong> OpenCV, Image Processing</li>
-<li><strong>Data Handling:</strong> Pandas, NumPy</li>
-<li><strong>Tools:</strong> Git, GitHub</li>
+<li>Programming: Python</li>
+<li>Machine Learning & Deep Learning</li>
+<li>TensorFlow, PyTorch</li>
+<li>Computer Vision (OpenCV)</li>
+<li>Data Processing: Pandas, NumPy</li>
+<li>Git & GitHub</li>
 </ul>
 </div>
 
 <div class="section">
-<h2>Key Projects</h2>
+<h2>Projects</h2>
 
 <strong>AI-Powered Identity Verification & Fraud Detection System</strong>
 <ul>
-<li>Engineered a face verification and document authentication system for secure identity validation.</li>
-<li>Implemented ML-based fraud classification for tampered vs genuine document detection.</li>
-<li>Optimized preprocessing pipelines to enhance model accuracy and reliability.</li>
+<li>Designed a secure face verification and document authentication pipeline.</li>
+<li>Implemented fraud detection logic for tampered vs genuine document classification.</li>
 </ul>
 
-<strong>Real-Time Face Recognition System</strong>
+<strong>Face Recognition & Attendance System</strong>
 <ul>
-<li>Developed a real-time facial recognition application using OpenCV.</li>
-<li>Integrated feature encoding techniques to improve identity matching precision.</li>
+<li>Developed real-time facial recognition system using OpenCV.</li>
+<li>Improved identification accuracy through image preprocessing techniques.</li>
 </ul>
 
 </div>
 
 <div class="section">
-<h2>Professional Experience</h2>
+<h2>Experience</h2>
 
 <strong>AI & ML Intern – Infosys Springboard Virtual Internship</strong>
 <ul>
 <li>Worked on AI-driven problem statements aligned with industry use cases.</li>
-<li>Developed and evaluated ML models following structured development workflows.</li>
-<li>Collaborated in team-based environments simulating real-world engineering practices.</li>
-</ul>
-
-<strong>Academic AI Systems Development – MCA Program</strong>
-<ul>
-<li>Led development of AI-based verification systems in collaborative project settings.</li>
-<li>Handled data preprocessing, model training, validation, and documentation.</li>
+<li>Developed and evaluated ML models using structured engineering workflows.</li>
 </ul>
 
 </div>
