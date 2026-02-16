@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Lead AI Engineer | Identity Verification & Fraud Detection Systems
+Aspiring AI Engineer | Identity Verification & Fraud Detection Systems
 </p>
 
 <p align="center">
