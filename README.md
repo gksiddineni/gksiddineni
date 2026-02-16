@@ -47,11 +47,16 @@ Aspiring AI Engineer | Identity Verification & Fraud Detection Systems
 
 ---
 
-## 🏆 Certifications
+## 🏆 Experience
 
 • Infosys Springboard – Artificial Intelligence Internship  
 • AICTE Virtual Internship – AI Foundation  
-• TensorFlow for AI & ML (Infosys / Online Certified)  
+
+## 💻 Certifications
+
+• Machine Learning Specialization Andrew ng | Coursera
+• IBM AI Foundations For Everyone  | Coursera
+• Meta Programming In Python | Coursera
 
 ---
 
