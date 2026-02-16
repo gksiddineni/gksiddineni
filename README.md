@@ -55,7 +55,9 @@ Aspiring AI Engineer | Identity Verification & Fraud Detection Systems
 ## 💻 Certifications
 
 • Machine Learning Specialization Andrew ng | Coursera
+
 • IBM AI Foundations For Everyone  | Coursera
+
 • Meta Programming In Python | Coursera
 
 ---
