@@ -1,60 +1,106 @@
-<h1 align="center">Gopala Krishna Siddineni</h1>
+<h1 align="center">Siddineni Gopala Krishna</h1>
 
 <p align="center">
-MCA Student | AI & ML Enthusiast | KYC & Fraud Detection Builder
+AI Engineer | MCA Student | Vijayawada, India
 </p>
 
-<hr>
-
-<h3 align="center">🚀 About Me</h3>
-
-<p align="center">
-• Passionate about Artificial Intelligence & Machine Learning <br>
-• Building AI-Powered Identity Verification & Fraud Detection Systems <br>
-• Interested in Computer Vision | ML Security | AI Automation <br>
-• Vijayawada, India
-</p>
-
-<hr>
-
-<h3 align="center">🔗 Connect With Me</h3>
-
-<!-- LinkedIn -->
 <p align="center">
   <a href="https://linkedin.com/in/siddinenigopalakrishna" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
-         width="45" 
-         alt="LinkedIn"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn"/>
   </a>
-</p>
 
-<!-- Instagram -->
-<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.instagram.com/__captain_gk__?igsh=MWVqbmR6bjQ0eDl5bA==" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" 
-         width="45" 
-         alt="Instagram"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" alt="Instagram"/>
   </a>
 </p>
 
 <hr>
 
-<h3 align="center">🛠 Tech Stack</h3>
+<h3 align="center">🧠 Summary</h3>
 
 <p align="center">
-Python | TensorFlow | OpenCV | Machine Learning | Git | Figma
+Skilled in Python, Machine Learning and Computer Vision with hands-on experience in AI-driven solutions  
+Focused on Identity Verification, Fraud Detection and Data Analysis
 </p>
 
 <hr>
 
-<h3 align="center">📌 Current Focus</h3>
+<h3 align="center">🛠 Technical Skills</h3>
 
 <p align="center">
-AI-Powered Identity Verification & Fraud Detection for KYC Compliance
+<strong>Programming:</strong> Python (Advanced) | JavaScript <br>
+<strong>ML/DL:</strong> TensorFlow | PyTorch | Keras <br>
+<strong>Generative AI:</strong> Stable Diffusion | ComfyUI
+</p>
+
+<hr>
+
+<h3 align="center">💼 Experience</h3>
+
+<p align="center">
+<strong>Artificial Intelligence Intern</strong> – Infosys Springboard (Jan 2026 – Present)
+</p>
+
+<ul>
+<li>Analyzed visual inconsistencies and forged document patterns for real-world fraud detection use cases.</li>
+<li>Developed AI-based identity verification prototype using image analysis and supervised ML models.</li>
+</ul>
+
+<p align="center">
+<strong>AI Foundation Intern</strong> – AICTE Virtual Internship (Apr 2024 – Jun 2024)
+</p>
+
+<ul>
+<li>Built computer vision model achieving 94% accuracy in image classification tasks.</li>
+<li>Optimized Stable Diffusion inference time by 35% through GPU performance tuning.</li>
+</ul>
+
+<hr>
+
+<h3 align="center">🚀 Key Projects</h3>
+
+<p align="center">
+<strong>AI-Powered Identity Verification & Fraud Detection</strong>
+</p>
+
+<ul>
+<li>Built computer vision–based document verification system using synthetic and public datasets.</li>
+<li>Trained ML models to classify real vs tampered documents for KYC workflows.</li>
+</ul>
+
+<p align="center">
+<strong>Early Detection of Cancer Using AI</strong>
+</p>
+
+<ul>
+<li>Developed machine learning model for early cancer detection using medical datasets.</li>
+<li>Performed preprocessing and feature extraction to improve prediction accuracy.</li>
+</ul>
+
+<hr>
+
+<h3 align="center">🎓 Education</h3>
+
+<p align="center">
+MCA – KBN College (2024 – 2026) <br>
+B.Sc – VSR Government Degree & PG College (2021 – 2024)
+</p>
+
+<hr>
+
+<h3 align="center">📜 Certifications</h3>
+
+<p align="center">
+Google Data Analytics Professional Certificate <br>
+IBM AI Foundations <br>
+Meta Data Analyst Professional Certificate <br>
+Machine Learning Specialization – Andrew Ng
 </p>
 
 <hr>
 
 <p align="center">
-⚡ "Learning in silence. Building with confidence."
+⚡ “Building secure AI systems for real-world impact.”
 </p>
