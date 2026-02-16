@@ -12,6 +12,10 @@ Aspiring AI Engineer | Identity Verification & Fraud Detection Systems
 <a href="https://linkedin.com/in/siddinenigopalakrishna" target="_blank">
   <img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png"/>
 </a>
+&nbsp;&nbsp;
+<a href="mailto:gopalakrishna.siddineni@gmail.com">
+  <img src="https://img.icons8.com/ios-filled/30/EA4335/gmail.png"/>
+</a>
 </p>
 
 ---
@@ -54,11 +58,9 @@ Aspiring AI Engineer | Identity Verification & Fraud Detection Systems
 
 ## 💻 Certifications
 
-• Machine Learning Specialization Andrew ng | Coursera
-
-• IBM AI Foundations For Everyone  | Coursera
-
-• Meta Programming In Python | Coursera
+• Machine Learning Specialization – Andrew Ng | Coursera  
+• IBM AI Foundations For Everyone | Coursera  
+• Meta Programming In Python | Coursera  
 
 ---
 
