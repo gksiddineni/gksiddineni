@@ -1,44 +1,60 @@
-<h1 align="center">Hi 👋, I'm Gopala Krishna Siddineni</h1>
-<h3 align="center">MCA Student | AI & ML Enthusiast | Building AI-Powered KYC & Fraud Detection Systems</h3>
+<h1 align="center">Gopala Krishna Siddineni</h1>
 
----
+<p align="center">
+MCA Student | AI & ML Enthusiast | KYC & Fraud Detection Builder
+</p>
 
-## 🚀 About Me
+<hr>
 
-- 🎓 MCA Student passionate about Artificial Intelligence
-- 🤖 Working on AI-Powered KYC & Fraud Detection Systems
-- 🔍 Interested in Computer Vision, ML Security & AI Automation
-- 📍 Vijayawada, India
+<h3 align="center">🚀 About Me</h3>
 
----
+<p align="center">
+• Passionate about Artificial Intelligence & Machine Learning <br>
+• Building AI-Powered Identity Verification & Fraud Detection Systems <br>
+• Interested in Computer Vision | ML Security | AI Automation <br>
+• Vijayawada, India
+</p>
 
-## 🛠 Tech Stack
+<hr>
 
-- Python
-- TensorFlow
-- OpenCV
-- Machine Learning
-- Deep Learning
-- Git & GitHub
+<h3 align="center">🔗 Connect With Me</h3>
 
----
+<!-- LinkedIn -->
+<p align="center">
+  <a href="https://linkedin.com/in/siddinenigopalakrishna" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
+         width="45" 
+         alt="LinkedIn"/>
+  </a>
+</p>
 
-## 📌 Current Project
+<!-- Instagram -->
+<p align="center">
+  <a href="https://www.instagram.com/__captain_gk__?igsh=MWVqbmR6bjQ0eDl5bA==" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" 
+         width="45" 
+         alt="Instagram"/>
+  </a>
+</p>
 
-🔐 *AI-Powered Identity Verification & Fraud Detection for KYC Compliance*
+<hr>
 
-- Face Verification Module
-- Document OCR & Validation
-- Fraud Detection using ML
-- API Integration & Testing
+<h3 align="center">🛠 Tech Stack</h3>
 
----
+<p align="center">
+Python | TensorFlow | OpenCV | Machine Learning | Git | Figma
+</p>
 
-## 📫 Connect With Me
+<hr>
 
-- 💼 LinkedIn: https://linkedin.com/in/your-link
-- 📧 Email: gopalakrishna.siddineni@gmail.com
+<h3 align="center">📌 Current Focus</h3>
 
----
+<p align="center">
+AI-Powered Identity Verification & Fraud Detection for KYC Compliance
+</p>
 
-⭐ Always learning. Always building.
+<hr>
+
+<p align="center">
+⚡ "Learning in silence. Building with confidence."
+</p>
